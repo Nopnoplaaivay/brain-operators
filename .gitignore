@@ -1,0 +1,23 @@
+# IDE
+.idea
+# venv
+venv
+
+# config
+*.env
+*.ini
+
+# cpython
+*__pycache__*
+
+# other
+tmp
+
+# data
+*.db
+
+secrets.txt
+
+gen_mail
+
+accounts.json
